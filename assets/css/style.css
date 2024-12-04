@@ -19,6 +19,15 @@ h1, h2 {
     color: #184f63;
 }
 
+#hero {
+    background-color: #dbdcde;
+    background-image: url("../portfolio-images/hero-image.webp");
+    background-size: cover;
+    background-position:50% 70%;
+    min-height: 500px;
+    padding: 5% 7%;
+}
+
 /* ABOUT SECTION */
 #about {
     background-color: white;
